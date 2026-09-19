@@ -1,9 +1,9 @@
 class Sweetpad < Formula
   desc "Build, run, and explore Xcode projects from the terminal"
   homepage "https://github.com/sweetpad-dev/sweetpad"
-  version "0.1.8"
-  url "https://github.com/sweetpad-dev/sweetpad/releases/download/cli-v0.1.8/sweetpad-cli-0.1.8-macos-universal.tar.gz"
-  sha256 "21c0e3932b111c2a85e936aad6fa54ed6eee7d31e84b6968d1c1708c71ba90c8"
+  version "0.1.9"
+  url "https://github.com/sweetpad-dev/sweetpad/releases/download/cli-v0.1.9/sweetpad-cli-0.1.9-macos-universal.tar.gz"
+  sha256 "e863a6195940323eb5c51c830a796edc21d745dfb6b38db33883f30639385dde"
   license "MIT"
 
   depends_on :macos
